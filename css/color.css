@@ -1,0 +1,89 @@
+:root{
+    --red1:#330000;
+    --red2:#990000;
+    --red3:#ff0000;
+    --red4:#ff3333;
+    --red5:#ff9999;
+
+    --blue1:#000033;
+    --blue2:#000099;
+    --blue3:#0000ff;
+    --blue4:#3333ff;
+    --blue5:#9999ff;
+
+    --green1:#003300;
+    --green2:#009900;
+    --green3:#00ff00;
+    --green4:#33ff33;
+    --green5:#99ff99;
+
+    --yellow1:#333300;
+    --yellow2:#999900;
+    --yellow3:#ffff00;
+    --yellow4:#ffff33;
+    --yellow5:#ffff99;
+
+    --cyan1:#003333;
+    --cyan2:#009999;
+    --cyan3:#00ffff;
+    --cyan4:#33ffff;
+    --cyan5:#99ffff;
+
+    --mazenta1:#330033;
+    --mazenta2:#990099;
+    --mazenta3:#ff00ff;
+    --mazenta4:#ff33ff;
+    --mazenta5:#ff99ff;
+}
+
+
+.red_text{
+    color: var(--red2);
+}
+
+.blue_text{
+    color: var(--blue2);
+}
+
+.green_text{
+    color: var(--green2);
+}
+
+
+.yellow_text{
+    color: var(--yellow2);
+}
+
+.cyan_text{
+    color: var(--cyan2);
+}
+
+.mazenta_text{
+    color: var(--mazenta2);
+}
+
+
+.red_back{
+    background: var(--red5);
+}
+
+.blue_back{
+    background: var(--blue5);
+}
+
+.green_back{
+    background: var(--green5);
+}
+
+
+.yellow_back{
+    background: var(--yellow5);
+}
+
+.cyan_back{
+    background: var(--cyan5);
+}
+
+.mazenta_back{
+    background: var(--mazenta5);
+}
