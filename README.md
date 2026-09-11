@@ -1,4 +1,4 @@
-<img width="1139" height="390" alt="image" src="https://github.com/user-attachments/assets/94840767-876e-4894-b4e1-ebc153ec9025" /># 就労移行支援事業所向けポータルサイト
+# 就労移行支援事業所向けポータルサイト
 ## 1. 目的
 勤怠管理や作品・書類提出の効率化ならびに連絡事項の共有の効率化
 
